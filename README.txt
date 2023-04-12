@@ -12,7 +12,7 @@ clumsy, the output_indicators csv looks a little bit clumsy but serves its purpo
 -aggregate_results: this file allows for aggregating the results of the files in a folder. When it is used
 to aggregate the result folders, it would replicate the already existing aggregated_data files. Be aware that this may take a while.
 
-To aggregate results, the aggregate_results file can be run. For each output csv that it finds in the designated folder, it will create a new entry in an aggregated_data csv.
+To aggregate results, the aggregate_results file can be run. For each output csv that it finds in the designated folder this will create a new entry in an aggregated_data csv.
 
 DATA FOR VALIDATION AND SCENARIO RUNS
 The data that was obtained from the validation runs for my thesis are stored in the results_csv_validation folder.
