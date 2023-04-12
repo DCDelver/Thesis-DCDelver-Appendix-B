@@ -5,7 +5,7 @@ To run the model that I created, use simulation_runner.py
 The simulation_runner.py is used to declare inputs and run scenarios with the model.
 This file uses simulation_setup_scenarios.py and simulation_functions.py to run the simulation framework.
 
-In addition, this folder contains three additional scripts:
+In addition, this folder contains three scripts for processing results:
 -plot_validation_graphs: plots the data for different scenario, based on the data that was saved in aggregated_data_validation.csv
 -write_output_indicators: this will write outputs for scenarios to a csv file. It looks a little more
 clumsy, the output_indicators csv looks a little bit clumsy but serves its purpose.
